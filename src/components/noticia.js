@@ -5,10 +5,10 @@ const Noticia = (props) => (
 );
 
 const Noticia2 = (props) => (
-    <a href='http://globo.com'><img className='hover:transform w-80' src='//upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png'/></a>
+    <a href='https://www.sbt.com.br/jornalismo'><img className='hover:transform w-80' src='//upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png'/></a>
 );
 
 const Noticia3 = (props) => (
-    <a href='http://globo.com'><img className='hover:transform max-w-xs' src='https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png'/></a>
+    <a href='https://recordtv.r7.com/noticias'><img className='hover:transform max-w-xs' src='https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png'/></a>
 );
 export { Noticia, Noticia2, Noticia3};
